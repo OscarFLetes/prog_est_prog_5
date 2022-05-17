@@ -14,12 +14,12 @@ Programa en lenguaje c que calcula el total a pagar de arduinos pedidos con uso 
 * printf para monstrar los valroes de las variables
 
 <b> Objetivo:</b>
-/n
+<br>
 Mostrar el uso de variables flotantes y enteras, como declararlas, pedirlas por teclado, usar condicones,
 realizar operaciones aritmeticas e imprimirla.
 
 <b> Breve descripcion:</b>
-/n
+<br>
 El programa pide como entrada 1 variable de tipo int (cantidad de arduinos),
 calcula el total a pagar de los arduinos esctitos, y condiciona que si los arduinos a llevar son mas de 5,
 se le hace un descuento del 20%, e imprime el subtotal, el descuento,  el total ya con el descuento  
